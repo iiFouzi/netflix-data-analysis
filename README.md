@@ -50,3 +50,6 @@ Titles added per month
 
 🖊️ Author: Fouzi — ENSSEA Student
 📅 Completed: October 2025
+
+**Built with:** Python · Pandas · Matplotlib
+
